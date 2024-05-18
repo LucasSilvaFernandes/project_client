@@ -6,7 +6,7 @@
         "use": "@vercel/vite"
       },
       {
-        "src": "backend/package.json",
+        "src": "backend/src/server.ts",
         "use": "@vercel/node"
       }
     ],
